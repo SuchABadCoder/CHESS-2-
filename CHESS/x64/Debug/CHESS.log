@@ -1,0 +1,172 @@
+﻿  main.cpp
+c:\users\user\source\repos\chess\chess\main.cpp(38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\chess\chess\main.cpp(751): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(752): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\chess\chess\main.cpp(755): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(756): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\chess\chess\main.cpp(759): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(760): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\chess\chess\main.cpp(763): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(764): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\user\source\repos\chess\chess\main.cpp(773): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(787): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(793): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(799): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(805): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(838): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(840): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(842): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(844): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(846): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(848): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(853): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(858): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(860): warning C4244: аргумент: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\users\user\source\repos\chess\chess\main.cpp(881): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\chess\chess\main.cpp(887): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\user\source\repos\chess\chess\main.cpp(109): warning C4715: F4: значение возвращается не при всех путях выполнения
+  CHESS.vcxproj -> C:\Users\USER\source\repos\CHESS\x64\Debug\CHESS.exe
